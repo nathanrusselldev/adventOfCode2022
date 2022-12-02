@@ -1,4 +1,7 @@
+// Reduce the Arrays to Find the Most Calories
+
 const sortMe = require('./output')
+
 
 const findBiggestSum = (array) => {
     // console.log(array)
